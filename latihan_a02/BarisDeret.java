@@ -1,8 +1,8 @@
 // Program Mencetak deret angka sebanyak - N
-package week005;
+package latihan_a02;
 import java.util.Scanner;
 
-public class LatihanA02 {
+public class BarisDeret {
     // Membuat sebuah prosedural untuk cetak 
     public static void cetak(int bilangan,int limit) {
         for (int i = 1; i <= bilangan; i++) {

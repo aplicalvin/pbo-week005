@@ -1,8 +1,8 @@
 // Program Menghitung Faktorial
-package week005;
+package latihan_a01;
 import java.util.Scanner;
 
-public class LatihanA01 {
+public class Faktorial {
     public static void main(String args[]) {
         // membuat object inputan untuk handle input
         Scanner inputan = new Scanner(System.in);
@@ -18,6 +18,5 @@ public class LatihanA01 {
             hasil *= (i + 1); // update variabel hasil 
             System.out.println(i + " x " + (i + 1) + " = " + hasil); // cetak akhir
         }
-
     }
 }
