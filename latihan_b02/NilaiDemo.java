@@ -86,6 +86,7 @@ public class NilaiDemo {
         for (int i = 0; i < total; i++) {
             printNilai(i); // Panggil void printNilai
         }
-        // detail Nilai Mahasiswa       
+        // detail Nilai Mahasiswa
+       
     }
 }
